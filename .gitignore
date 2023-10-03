@@ -1,0 +1,18 @@
+# Ignore PyCharm project files
+.idea/
+
+# Ignore PyCharm-specific settings
+*.iml
+*.ipr
+*.iws
+
+# Ignore Python cache files and directories
+__pycache__/
+*.pyc
+
+# Ignore virtual environment directories (adjust as needed)
+venv/
+env/
+
+# Ignore PNG files
+*.png
