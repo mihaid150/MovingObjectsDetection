@@ -1,2 +1,2 @@
-from video_manager import track_objects_simple, track_objects_yolo
+from video_manager import track_objects_yolo, track_objects_simple
 track_objects_yolo()

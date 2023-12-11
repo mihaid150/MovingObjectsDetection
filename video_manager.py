@@ -11,6 +11,7 @@ def clean_folder(path):
         os.remove(os.path.join(path, filename))
 
 
+
 def window_conf():
     width = 640
     height = 480
